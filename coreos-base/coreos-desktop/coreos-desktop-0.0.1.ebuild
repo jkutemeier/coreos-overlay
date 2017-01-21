@@ -169,7 +169,6 @@ RDEPEND="${RDEPEND}
 	sys-fs/xfsprogs
 	sys-kernel/coreos-firmware
 	sys-kernel/coreos-kernel
-	sys-kernel/linux-firmware
 	sys-libs/glibc
 	sys-libs/nss-usrfiles
 	sys-libs/timezone-data
